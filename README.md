@@ -1,1 +1,6 @@
-# 100s-Of-Worship
+# 100s-Of-Worship (Zikr)
+
+## Live Link:
+ ```Link
+ https://starswarrior.github.io/zikr
+ ```
